@@ -1,0 +1,15 @@
+body{padding: 5em;}
+body{background-color: #FBE98D;}
+p{font-size: 25px;}
+h1,h2{text-align: center;}
+h1,h2{color: #5F361E;}
+p{width:750px;} 
+p{text-align: center;}
+a{font-size: 25px;}
+a{color: black}
+img, video, audio, canvas, p{
+    display: block; 
+    margin: 0 auto;
+    padding-bottom: 2em}
+.credits{font-size: 0.5em;
+    color: rgb(200,200,200);}
